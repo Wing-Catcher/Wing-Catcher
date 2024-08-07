@@ -10,6 +10,8 @@ I am a passionate student with a keen interest in coding and web development. My
 
 ## My Projects
 
+- **[Portfolio](https://github.com/Wing-Catcher/portfolio)**: Explore my web development projects, showcasing my skills in HTML, CSS, JavaScript, and Python. Each project highlights my ability to create functional and visually appealing web solutions.
+
 - **[Mini Temperature Calculator](https://github.com/Wing-Catcher/kalkulator-suhu.io)**: A simple web-based temperature calculator project. It helps users convert temperatures between Celsius, and Fahrenheit easily.
 
 ## Connect with Me
