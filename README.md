@@ -14,6 +14,9 @@ I am a passionate student with a keen interest in coding and web development. My
 
 - **[Mini Temperature Calculator](https://github.com/Wing-Catcher/kalkulator-suhu.io)**: A simple web-based temperature calculator project. It helps users convert temperatures between Celsius, and Fahrenheit easily.
 
+- **[Password Generator](https://github.com/Wing-Catcher/password-generator)**: A customizable password generator that creates secure passwords with options for length, characters, and symbols.
+
+
 ## Connect with Me
 
 - Instagram: [@wingcatcher_](https://www.instagram.com/wingcatcher_/)
